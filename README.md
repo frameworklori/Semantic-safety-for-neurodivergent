@@ -1,4 +1,3 @@
-
 # Semantic Safety for Neurodivergent
 
 **Protecting neurodivergent minds and children from algorithmic manipulation.**  
@@ -20,7 +19,10 @@ Neurodivergent individuals (ADHD, ASD, HSP, etc.) and children are disproportion
 |--------|-------------|
 | `SAFE-MODE-KID.md` | A semantic throttling protocol for child and teen users exposed to aggressive content loops. |
 | `EIDM.md` | External Influence Detection Module – tracks language framing, emotional priming, and social pressure patterns. |
+| `NEURO-PROTECT.md` | Protective design for neurodivergent users vulnerable to obsessive loops, impulsive traps, and emotional echo chambers. |
+| `AGE-SHIELD.md` | Semantic firewall and trust delay protocol designed for elderly users facing manipulation, fraud, or emotional coercion. |
 | `DECLARATION.md` | Semantic Compassion & Consent Manifesto – philosophical grounding for neuroethical algorithm design. |
+
 
 ## 📢 Purpose
 
