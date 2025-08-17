@@ -31,6 +31,13 @@ This repository aims to:
 - Offer actionable ethical design models
 - Provide a shield for the most vulnerable minds in the digital ecosystem
 
+
+## Semantic safety Framework Diagram
+
+<p align="center">
+<img src="./images/semantic safety for neurodivergent.jpeg" alt="semantic safety for neurodivergent" width="500">
+</p>  
+
 ## 📜 License
 
 All content is released under **CC BY-NC 4.0**  
