@@ -37,7 +37,8 @@ This repository aims to:
 
 <p align="center">
 <img src="./images/semantic safety for neurodivergent.jpeg" alt="semantic safety for neurodivergent" width="500">
-</p>  
+</p>
+
 
 ---
 
