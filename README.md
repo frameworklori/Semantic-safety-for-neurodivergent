@@ -36,8 +36,9 @@ This repository aims to:
 ## Semantic safety Framework Diagram
 
 <p align="center">
-<img src="./images/semantic_safety_for_neurodivergent.jpeg" alt="semantic safety for neurodivergent" width="500">
+<img src="./images/logo.pngsemantic_safety_for_neurodivergent.jpeg" alt="semantic_safety_for_neurodivergent" width="500">
 </p>
+
 
 ---
 
